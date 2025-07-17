@@ -103,11 +103,11 @@ The project uses historical product data with the following structure:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Author
+## Author : Taouil Fatimaezzahrae (call me strawberry)
 
 - **Project**: VRP and ANN Coupling with ACO
 - **Implementation**: Demand prediction and route optimization system
-- **Contact**: For questions and support
+- **Contact**: taouilfatimaezzahrae@gmail.com
 
 ## Acknowledgments
 
