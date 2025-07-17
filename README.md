@@ -29,6 +29,11 @@ This project addresses the complex Vehicle Routing Problem (VRP) using a fleet o
    pip install pandas numpy tensorflow sklearn matplotlib sweetviz missingno
    ```
 
+2. **Download Data:**
+
+   ```bash
+   https://drive.google.com/drive/folders/12evcI7yNOOYTI5twx1ShxvjnMoYSOdLX?usp=sharing
+   ```
 ## Usage
 
 1. **Load and preprocess the data:**
